@@ -11,7 +11,7 @@
  - Admin account can delete posts and modify group membership
  - Users can upload images, documents, and code snippets
  - User profile search
- - Login with GitHub
+ - Login with GitHub 
  - Users have an option to use Gravatar image
 
 
